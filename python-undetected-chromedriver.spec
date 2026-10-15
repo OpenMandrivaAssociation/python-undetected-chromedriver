@@ -1,6 +1,6 @@
 Name:		python-undetected-chromedriver
 Version:	3.5.5
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/u/undetected-chromedriver/undetected-chromedriver-%{version}.tar.gz
 Summary:	Selenium.webdriver.Chrome replacement
 URL:		https://pypi.org/project/undetected-chromedriver/
